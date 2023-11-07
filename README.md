@@ -53,7 +53,7 @@ npm install
 
 5. **Inicie o servidor**:
 ```
-npm run dev
+'npm run dev'
 ```
 
 6. **Acesse a aplicação**:
