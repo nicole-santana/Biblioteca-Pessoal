@@ -1,0 +1,5 @@
+button {
+    color: var(--laranja);
+    border: none;
+    border-radius: 5px;
+}
